@@ -1,0 +1,6 @@
+phidata
+ollama
+streamlit
+fastapi
+uvicorn
+pydantic 

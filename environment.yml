@@ -1,0 +1,14 @@
+name: travel_ai
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - phidata
+    - ollama
+    - streamlit
+    - fastapi
+    - uvicorn
+    - pydantic 
